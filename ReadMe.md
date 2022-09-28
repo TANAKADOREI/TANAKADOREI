@@ -7,3 +7,5 @@
 <a href="https://github.com/TANAKADOREI/ShadowProject"><img src="https://img.shields.io/badge/Project-ShadowProject-lightgrey?style=for-the-badge&logo=appveyor"/></a>
 <a href="https://github.com/TANAKADOREI/DesktopKorone"><img src="https://img.shields.io/badge/Project-DesktopKorone-yellow?style=for-the-badge&logo=appveyor"/></a>
 <a href="https://github.com/TANAKADOREI/CMakeTemplate"><img src="https://img.shields.io/badge/Project-CMakeTemplate-red?style=for-the-badge&logo=appveyor"/></a>
+<a href="https://github.com/TANAKADOREI/MarkdownTranslator"><img src="https://img.shields.io/badge/Project-MarkdownTranslator-white?style=for-the-badge&logo=appveyor"/></a>
+
